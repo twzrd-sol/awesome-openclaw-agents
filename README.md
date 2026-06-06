@@ -614,6 +614,7 @@ Model Context Protocol servers to extend agent capabilities.
 | mcp-twitter | Twitter/X posting |
 | mcp-discord | Discord bot integration |
 | mcp-linear | Linear issue tracking |
+| [twzrd-agent-intel](https://intel.twzrd.xyz) | Solana on-chain agent trust scoring via x402 micropayments — 4 free preflight tools + 4 paid signed V5 trust receipts. MCP at `https://intel.twzrd.xyz/mcp` |
 
 ---
 
